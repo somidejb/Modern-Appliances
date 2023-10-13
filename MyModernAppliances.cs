@@ -1,6 +1,6 @@
 ﻿/***************************************************************************
  //File:		MyModernAppliances.cs
- //Author:      Jubril Somide, Peng Winko, Anowai Samuel, Peng Winko
+ //Author:      Jubril Somide, Peng Winko, Anowai Samuel, Kevin Ly
  //Date: 	    10/13/2023
  //Description:	Manager class for Modern Appliances
 ****************************************************************************/
